@@ -1,0 +1,14 @@
+.col{
+    border: black 1px solid;
+    background-color: darkorchid;
+}
+.col-1{
+    background-color: blue;
+    border: black 1px solid;
+}
+.col-8{
+    background-color: cadetblue;
+}
+.col-4{
+    background-color: darkgoldenrod;
+}
